@@ -11,6 +11,7 @@
 		3F604FCD27C7E86E00CBBA9B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F604FCC27C7E86E00CBBA9B /* ContentView.swift */; };
 		3F604FCF27C7E87800CBBA9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F604FCE27C7E87800CBBA9B /* Assets.xcassets */; };
 		3F604FD227C7E87800CBBA9B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F604FD127C7E87800CBBA9B /* Preview Assets.xcassets */; };
+		3F604FDA27C7EA5300CBBA9B /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F604FD927C7EA5300CBBA9B /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F604FCE27C7E87800CBBA9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F604FD127C7E87800CBBA9B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F604FD327C7E87800CBBA9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F604FD927C7EA5300CBBA9B /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3F604FCA27C7E86E00CBBA9B /* Za_HunterApp.swift */,
 				3F604FCC27C7E86E00CBBA9B /* ContentView.swift */,
+				3F604FD927C7EA5300CBBA9B /* LocationManager.swift */,
 				3F604FCE27C7E87800CBBA9B /* Assets.xcassets */,
 				3F604FD327C7E87800CBBA9B /* Info.plist */,
 				3F604FD027C7E87800CBBA9B /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				3F604FCD27C7E86E00CBBA9B /* ContentView.swift in Sources */,
 				3F604FCB27C7E86E00CBBA9B /* Za_HunterApp.swift in Sources */,
+				3F604FDA27C7EA5300CBBA9B /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
